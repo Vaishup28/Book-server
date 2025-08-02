@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "lang":"Candle",
+        "name":"Butterscotch Brew ",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200ProductImages_1.png?crop=center&height=680&v=1744210148&width=433"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"Candle",
+        "name":"OLD BOOKSHOP",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200_Product_Images_3.png?crop=center&height=680&v=1744210115&width=433"
+        
+    },
+    {
+        "id":3,
+        "lang":"Candle",
+        "name":"Smells Like Reading with F.R.I.N.D.S",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/Friends.jpg?crop=center&height=711&v=1750935496&width=433"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"Candle",
+        "name":"Smells Like Reading in Office",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/3_2e4d580d-b0e7-44cb-abeb-63fc3bbf348c.jpg?crop=center&height=711&v=1750935388&width=433"
+        
+
+    },
+    {
+        "id":5,
+        "lang":"Candle",
+        "name":"Smells Like Queen",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1_7f85cc30-a5a5-4e58-8f23-f188bcec80c0.jpg?crop=center&height=711&v=1750935288&width=433"
+        
+
+    },
+    {
+        "id":6,
+        "lang":"Candle",
+        "name":"Smells Like She's Reading Again" ,
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/2_cd92fbcd-c767-4f46-a113-5a1293db7ac8.jpg?crop=center&height=711&v=1750935604&width=433"
+        
+
+    }
+]

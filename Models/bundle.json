@@ -1,0 +1,104 @@
+[
+    {
+        "id":1,
+        "lang":"English",
+        "name":"The Century Trilogy",
+        "price":599,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_59.jpg?crop=center&height=666&v=1724412135&width=433"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"English",
+        "name":"Paula Hawkins",
+        "price":499,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_23_5dc7f56a-2ff9-463a-a2d7-e11feb1002ac.jpg?crop=center&height=666&v=1722237127&width=433"
+        
+    },
+    {
+        "id":3,
+        "lang":"English",
+        "name":"Night World Series ",
+        "price":599,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_32.jpg?crop=center&height=665&v=1709198138&width=433"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"English",
+        "name":"Barack Obama X2",
+        "price":599,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_33_6bbf4cd0-ba7c-410c-a3cb-5c940663767e.jpg?crop=center&height=666&v=1722577890&width=433"
+        
+
+    },
+    {
+        "id":5,
+        "lang":"English",
+        "name":"Sophie Kinsella Bestse...",
+        "price":599,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_80.jpg?crop=center&height=666&v=1725515980&width=433"
+
+    },
+    {
+        "id":6,
+        "lang":"English",
+        "name":"The Patricia Cornwell ...",
+        "price":999,
+        "image":"https://kitabay.com/cdn/shop/files/Untitleddesign_6.jpg?crop=center&height=449&v=1747203094&width=433"
+        
+
+    },
+    {
+        "id":7,
+        "lang":"English",
+        "name":"Jane Green X5",
+        "price":699,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_32_2ce077e1-6c06-494c-9ef7-4b85955abeb1.jpg?crop=center&height=666&v=1722577075&width=433"
+        
+
+    },
+    {
+        "id":8,
+        "lang":"English",
+        "name":"The Fowl Twins Series ...",
+        "price":777,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_1_1c5989f2-8ae9-4fbb-8db9-34e285cbc604.png?crop=center&height=666&v=1719993933&width=433"
+        
+
+    },
+    {
+        "id":9,
+        "lang":"English",
+        "name":"Ben 10 Ultimate Alien ...",
+        "price":1499,
+        "image":"https://kitabay.com/cdn/shop/files/d6b75759af977eb1794cdb7e348c085f.jpg?crop=center&height=577&v=1715844915&width=433"
+
+    },
+    {
+        "id":10,
+        "lang":"English",
+        "name":"Dinah Jefferies Bestse...",
+        "price":999,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_25.jpg?crop=center&height=666&v=1709195550&width=433"
+
+    },
+    {
+        "id":11,
+        "lang":"English",
+        "name":"Best Romantic Novels ",
+        "price":1399,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_70.jpg?crop=center&height=666&v=1724995211&width=433"
+    },
+    {
+        "id":12,
+        "lang":"English",
+        "name":"The Inheritance Cycle ...",
+        "price":599,
+        "image":"https://kitabay.com/cdn/shop/files/Template_650x1000px_34_b407d743-cea4-433f-9a8f-ff4e1840adf0.jpg?crop=center&height=666&v=1723096680&width=433"
+        
+
+    }
+]

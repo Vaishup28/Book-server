@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "lang":"English",
+        "name":"Crackers",
+        "price":100,
+        "image":"https://kitabay.com/cdn/shop/products/9fbea7295e2444c437fbfb727500aec6.jpg?crop=center&height=475&v=1705989258&width=296"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"English",
+        "name":"Horrid Henry",
+        "price":101,
+        "image":"https://kitabay.com/cdn/shop/products/54dfcdfde8f957cdfcfeda01c70086a8.jpg?crop=center&height=400&v=1705916229&width=260"
+        
+    },
+    {
+        "id":3,
+        "lang":"English",
+        "name":"Jake's Cave",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/products/85c686148c7214433058e47b65c1fcef.jpg?crop=center&height=593&v=1705910417&width=433"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"English",
+        "name":"Charlie Small: 8: Fros...",
+        "price":149,
+        "image":"https://kitabay.com/cdn/shop/products/0795ed3b604565000832160ebf87886f.jpg?crop=center&height=400&v=1705904045&width=263"
+    },
+    {
+        "id":5,
+        "lang":"English",
+        "name":"Fluffy Assassins from ...",
+        "price":179,
+        "image":"https://kitabay.com/cdn/shop/products/744f03316e57cf2030e57338c4df1d51.jpg?crop=center&height=475&v=1705917147&width=319"
+
+    },
+    {
+        "id":6,
+        "lang":"English",
+        "name":"Animated Movies Facts,...",
+        "price":249,
+        "image":"https://kitabay.com/cdn/shop/products/0ff64887a218b5c5853acc77986b1b67.jpg?crop=center&height=280&v=1707393154&width=175"
+    },
+    {
+        "id":7,
+        "lang":"English",
+        "name":"Jokes on a Rope",
+        "price":152,
+        "image":"https://kitabay.com/cdn/shop/products/f220b42d3e12ea7d8c7e9dabebb1062b.jpg?crop=center&height=500&v=1706177284&width=358"
+        
+
+    }
+]

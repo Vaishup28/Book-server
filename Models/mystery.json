@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "name":"The Young Elites(The Young Elites, #1)",
+        "price":299,
+        "image":"https://kitabay.com/cdn/shop/files/a478156d6328ab3cd0810bca5e4f0336.jpg?crop=center&height=283&v=1753077394&width=178"
+        
+
+    },
+    {
+        "id":2,
+        "name":"Allegiant(Divergent, #3)",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/998d5ba5722fd656a04b659e1032fcb2.jpg?crop=center&height=475&v=1752836848&width=315"
+        
+    },
+    {
+        "id":3,
+        "name":"The Swimming Pool-Library",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/1c68518b03d5d4db7e593c8225849085.jpg?crop=center&height=798&v=1752835745&width=520"
+        
+
+    },
+    {
+        "id":4,
+        "name":"Five Days",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/23350ccb7dd276dca443cafc3ca91263.jpg?crop=center&height=475&v=1752746308&width=309"
+        
+
+    },
+    {
+        "id":5,
+        "name":"Bath Tangle",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/3e5635dccdfe138e004733a931ebd616.jpg?crop=center&height=570&v=1752745485&width=370"
+        
+
+    },
+    {
+        "id":6,
+        "name":"The Princetta",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/3e4a0fa053cec4c05d6fdc3307fc1677.jpg?crop=center&height=461&v=1753075946&width=300"
+        
+
+    },
+    {
+        "id":7,
+        "name":"Tuscan Rose",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/3bc764d8bddb593ff2c7df16a22c3523.jpg?crop=center&height=400&v=1753077591&width=264"
+    },
+    {
+        "id":8,
+        "lang":"Candle",
+        "name":"Butterscotch",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200ProductImages_1.png?crop=center&height=680&v=1744210148&width=433"
+    },
+    {
+        "id":9,
+        "lang":"Candle",
+        "name":"OLD BOOKSHOP",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200_Product_Images_3.png?crop=center&height=680&v=1744210115&width=433"
+        
+    },
+    {
+        "id":10,
+        "lang":"Candle",
+        "name":"OLD BOOKSHOP",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200_Product_Images_3.png?crop=center&height=680&v=1744210115&width=433"
+        
+    },
+    {
+        "id":11,
+        "lang":"Candle",
+        "name":"Smells again",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/2_cd92fbcd-c767-4f46-a113-5a1293db7ac8.jpg?crop=center&height=711&v=1750935604&width=433"
+        
+    },
+    {
+        "id":12,
+       "lang":"Candle",
+        "name":"Smells Like Reading in Office",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/3_2e4d580d-b0e7-44cb-abeb-63fc3bbf348c.jpg?crop=center&height=711&v=1750935388&width=433"
+        
+    },
+    {
+        "id":13,
+        "lang":"Candle",
+        "name":"Smells Like Reading with F.R.I.N.D.S",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/Friends.jpg?crop=center&height=711&v=1750935496&width=433"
+        
+    },
+    {
+        "id":14,
+        "lang":"Candle",
+        "name":"Butterscotch Brew ",
+        "price":369,
+        "image":"https://kitabay.com/cdn/shop/files/1400x2200ProductImages_1.png?crop=center&height=680&v=1744210148&width=433"
+    }
+]

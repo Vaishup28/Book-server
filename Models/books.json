@@ -1,0 +1,219 @@
+[  
+
+    {
+        "id": 1,
+        "book":"Best Sellers",
+        "city":"Pune",
+        "image":"https://i0.wp.com/learningfromliterature.net/wp-content/uploads/2023/11/ZJ6MWBVSCR5H2JTUTXT32F5XAA.jpg?fit=1920%2C1459&ssl=1",
+        "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": " Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Best Sellers"
+    }, 
+    {
+        "id":2,
+        "book":"Literature & Fiction",
+        "city":"Banglaore",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1wdcjeak8TFPYtO-jPk_79hCJhelkKtffqj-2TlSTQAZ92RZoc-u7DSnG-cVTk_8rJo&usqp=CAU",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Literature & Fiction"
+        
+    }, 
+    {
+        "id":3,
+        "book":"Biographies",
+        "city":"Mumbai",
+        "image":"https://celadonbooks.com/wp-content/uploads/2023/10/12-Game-Changing-Sports-Biographies-and-Memoirs-copy.jpg",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Biographies"
+    }, 
+    {
+        "id":4,
+        "book":"History",
+        "city":"Chennai",
+        "image":"https://kitabay.com/cdn/shop/files/23350ccb7dd276dca443cafc3ca91263.jpg?crop=center&height=475&v=1752746308&width=309",
+        "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "History"
+    }, 
+    {
+        "id":5,
+        "book":"Spirituality",
+        "city":"Pune",
+       "image":"https://breathedreamgo.com/wp-content/uploads/2008/11/Spiritual-books-collage.jpg",
+        "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Spirituality"
+    },
+    {
+        "id":6,
+        "book":"New Releases",
+        "city":"Delhi",
+      "image":"https://i.ytimg.com/vi/ErBRKgMUkc0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAD9WUEM0ype1yBwGx1iIeKmsjvHA",
+       "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "New Releases"
+    },
+     {
+        "id": 7,
+        "book":"History",
+        "city":"Mumbai",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2m5-0U3iqi1MOsDGWhx7ptDZP8vv1Yyfvg&s",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "History"
+       
+        
+    }, 
+     {
+        "id": 8,
+        "book":"New Releases",
+        "city":"Mumbai",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13tWZe4hskLdjVXIP3d1xrqY78l4S-COMkg&s",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "New Releases"
+    }, 
+     {
+        "id": 9,
+        "book":"Best Sellers",
+        "city":"Delhi",
+        "image":"https://www.bookishadda.com/cdn/shop/products/Bestsellingcombo_1eda6b15-7d70-4647-babc-990abe72df3f.png?v=1694402924",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Best Sellers"
+        
+        
+    }, 
+     {
+        "id": 10,
+        "book":"Best Sellers",
+        "city":"Pune",
+        "image":"https://nothingintherulebook.com/wp-content/uploads/2016/12/best-selling-books-2016.png",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Best Sellers"
+       
+        
+    },
+    {
+         "id":11,
+        "book":"Biographies",
+         "city":"Chennai",
+        "image":"https://celadonbooks.com/wp-content/uploads/2023/10/12-Game-Changing-Sports-Biographies-and-Memoirs-copy.jpg",
+         "reviews": [
+      {
+        "username": "Dipesh",
+        "rating": 5,
+        "comment": "Some of these are quite good. Happy reading!"
+      },
+      {
+        "username": "Kirti",
+        "rating": 4,
+        "comment": "I've recently buy a book from Kitabay and I am loving it."
+      }
+    ],
+    "booktype": "Biographies"
+    }
+] 

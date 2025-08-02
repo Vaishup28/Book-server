@@ -1,0 +1,434 @@
+/****************** Verbs in APIs ******************/
+
+(1) Get the data from the API - GET
+(2) Send the data to the API - POST
+(3) We can update the data - PUT
+(4) We can delete the data - DELETE
+
+
+CRUD operations:
+
+C - create, POST
+R - read, GET
+U - update, PUT
+D - delete, DELETE
+
+
+/****************** Status codes in APIs ******************/
+
+(1) 100s - informational status codes
+(2) 200s - success status codes
+(3) 300s - redirections
+(4) 400s - client side errors
+(5) 500s - serve side errors
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+/***************** Express JS ************************/
+
+-> install it from npmjs.com
+-> it is going to bring in the MVC architecture
+
+In the world of BE:
+M - Model: to deal with the data (databases, filesystem etc)
+V - View: to handle the incoming requests (Routes)
+C - Controller: the business logic to process the incoming request
+
+-> the code we write using ExpressJS will conform to the MVC architecture
+
+-> Folder structure
+    -> app.js (starting point of BE)
+    -> package.json
+    -> package-lock.json
+    -> node_modules (here all your downloaded packages will be present)
+    -> Models
+        -> login model
+        -> project model
+    -> Routes
+        -> login route
+        -> project routes
+    -> Controllers
+        -> login controller
+        -> project controller
+
+
+GET -> http://localhost:5402/restaurants -> should give me a list of restaurants (server) (origin 2)
+client request => http://localhost:3000/restaurants (origin 1)
+
+(1) How do I recieve a request 
+    -> routes will recieve your request from FE / Client
+    -> routes will pass on this request to the controller
+
+(2) How to access the data in restaurants.json
+    -> controller will access the data from the models
+    -> controller will process the data and send back the response
+
+-> Express uses a concept known as MiDDLEWARE
+    -> small functionalities to do your task
+
+
+/*********** What is an origin *****************/
+
+
+https://www.google.com/
+
+http://localhost:5402/
+
+Origin - (Protocol) (domain) (port)
+
+http://localhost:5402/ 
+http://localhost:5403/  (Port is diff)
+
+
+http://localhost:5402/
+https://localhost:5402/ (Protocol is not same)
+
+
+http://localhost:5402/
+http://mywebsite:5402/ (domain is diff)
+
+
+
+/**************** CORS ****************/
+
+FE - origin 1 (http://localhost:3000/)
+
+BE - origin 2 (http://localhost:8080/)
+
+C Cross
+O Origin
+R Resource
+S Sharing
+
+//// CORS issue
+
+As per web security standards, CORS is not permissible
+
+
+//// Solution to CORS issue
+
+-> We need to make some extra arrangements to establish a communication for resource sharing between diff origins.
+-> one origin has to trust the other origin
+-> make some arrangement in BE so that BE can trust the request coming from FE
+
+
+
+data:
+
+    SQL , NoSQL , cloud , aws , big-data 
+
+let array = [10,20,30,40]; //number
+let array1 = [10, 30.89, true, "Nikul"]; // array
+let array3 = [{},{},{},{}]; // array of objects
+
+SQL -> Structured query language 
+
+ID   Name-Emp       Salary
+
+1    Anirudh        $10000
+2    Harshada       $20000
+3    Vaishnavi      $15000
+
+NoSQL -> Non-Structured Query language
+
+[{
+    id:1,
+    Name-Emp:'Anirudh',
+    Salary: $10000
+},
+/****************** Verbs in APIs ******************/
+
+(1) Get the data from the API - GET
+(2) Send the data to the API - POST
+(3) We can update the data - PUT
+(4) We can delete the data - DELETE
+
+
+CRUD operations:
+
+C - create, POST
+R - read, GET
+U - update, PUT
+D - delete, DELETE
+
+
+/****************** Status codes in APIs ******************/
+
+(1) 100s - informational status codes
+(2) 200s - success status codes
+(3) 300s - redirections
+(4) 400s - client side errors
+(5) 500s - serve side errors
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+/***************** Express JS ************************/
+
+-> install it from npmjs.com
+-> it is going to bring in the MVC architecture
+
+In the world of BE:
+M - Model: to deal with the data (databases, filesystem etc)
+V - View: to handle the incoming requests (Routes)
+C - Controller: the business logic to process the incoming request
+
+-> the code we write using ExpressJS will conform to the MVC architecture
+
+-> Folder structure
+    -> app.js (starting point of BE)
+    -> package.json
+    -> package-lock.json
+    -> node_modules (here all your downloaded packages will be present)
+    -> Models
+        -> login model
+        -> project model
+    -> Routes
+        -> login route
+        -> project routes
+    -> Controllers
+        -> login controller
+        -> project controller
+
+
+GET -> http://localhost:5402/restaurants -> should give me a list of restaurants
+
+(1) How do I recieve a request 
+    -> routes will recieve your request from FE / Client
+    -> routes will pass on this request to the controller
+
+(2) How to access the data in restaurants.json
+    -> controller will access the data from the models
+    -> controller will process the data and send back the response
+
+-> Express uses a concept known as MiDDLEWARE
+    -> small functionalities to do your task
+
+
+/*********** What is an origin *****************/
+
+
+https://www.google.com/
+
+http://localhost:5402/
+
+Origin - (Protocol) (domain) (port)
+
+http://localhost:5402/ 
+http://localhost:5403/  (Port is diff)
+
+
+http://localhost:5402/
+https://localhost:5402/ (Protocol is not same)
+
+
+http://localhost:5402/
+http://mywebsite:5402/ (domain is diff)
+
+
+
+/**************** CORS ****************/
+
+FE - origin 1 (http://localhost:3000/)
+
+BE - origin 2 (http://localhost:5402/)
+
+C Cross
+O Origin
+R Resource
+S Sharing
+
+//// CORS issue
+
+As per web security standards, CORS is not permissible
+
+
+//// Solution to CORS issue
+
+-> We need to make some extra arrangements to establish a communication for resource sharing between diff origins.
+-> one origin has to trust the other origin
+-> make some arrangement in BE so that BE can trust the request coming from FE
+ 
+let array = [10,20,30,40]; //number
+let array1 = [10, 30.89, true, "Nikul"]; // array
+let array3 = [{},{},{},{}]; // array of objects
+
+SQL -> Structured query language 
+
+ID   Name-Emp   Salary
+
+1    Avinash    $10000
+2    Shubham    $20000
+3    Mayur      $15000
+
+NoSQL -> Non-Structured Query language
+
+[
+    {
+        ID : 1,
+        Name-Emp: Avinash,
+        Salary: $10000
+
+    },
+    {
+        ID : 2,
+        Name-Emp: Shubham,
+        Salary: $20000
+
+    },
+    {
+        ID : 3,
+        Name-Emp: Mayur,
+        Salary: $15000
+
+    }
+]
+,
+/****************** Verbs in APIs ******************/
+
+(1) Get the data from the API - GET
+(2) Send the data to the API - POST
+(3) We can update the data - PUT
+(4) We can delete the data - DELETE
+
+
+CRUD operations:
+
+C - create, POST
+R - read, GET
+U - update, PUT
+D - delete, DELETE
+
+
+/****************** Status codes in APIs ******************/
+
+(1) 100s - informational status codes
+(2) 200s - success status codes
+(3) 300s - redirections
+(4) 400s - client side errors
+(5) 500s - serve side errors
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+/***************** Express JS ************************/
+
+-> install it from npmjs.com
+-> it is going to bring in the MVC architecture
+
+In the world of BE:
+M - Model: to deal with the data (databases, filesystem etc)
+V - View: to handle the incoming requests (Routes)
+C - Controller: the business logic to process the incoming request
+
+-> the code we write using ExpressJS will conform to the MVC architecture
+
+-> Folder structure
+    -> app.js (starting point of BE)
+    -> package.json
+    -> package-lock.json
+    -> node_modules (here all your downloaded packages will be present)
+    -> Models
+        -> login model
+        -> project model
+    -> Routes
+        -> login route
+        -> project routes
+    -> Controllers
+        -> login controller
+        -> project controller
+
+
+GET -> http://localhost:5402/restaurants -> should give me a list of restaurants
+
+(1) How do I recieve a request 
+    -> routes will recieve your request from FE / Client
+    -> routes will pass on this request to the controller
+
+(2) How to access the data in restaurants.json
+    -> controller will access the data from the models
+    -> controller will process the data and send back the response
+
+-> Express uses a concept known as MiDDLEWARE
+    -> small functionalities to do your task
+
+
+/*********** What is an origin *****************/
+
+
+https://www.google.com/
+
+http://localhost:5402/
+
+Origin - (Protocol) (domain) (port)
+
+http://localhost:5402/ 
+http://localhost:5403/  (Port is diff)
+
+
+http://localhost:5402/
+https://localhost:5402/ (Protocol is not same)
+
+
+http://localhost:5402/
+http://mywebsite:5402/ (domain is diff)
+
+
+
+/**************** CORS ****************/
+
+FE - origin 1 (http://localhost:3000/)
+
+BE - origin 2 (http://localhost:5402/)
+
+C Cross
+O Origin
+R Resource
+S Sharing
+
+//// CORS issue
+
+As per web security standards, CORS is not permissible
+
+
+//// Solution to CORS issue
+
+-> We need to make some extra arrangements to establish a communication for resource sharing between diff origins.
+-> one origin has to trust the other origin
+-> make some arrangement in BE so that BE can trust the request coming from FE
+ 
+let array = [10,20,30,40]; //number
+let array1 = [10, 30.89, true, "Nikul"]; // array
+let array3 = [{},{},{},{}]; // array of objects
+
+SQL -> Structured query language 
+
+ID   Name-Emp       Salary
+
+1    Anirudh        $10000
+2    Harshada       $20000
+3    Vaishnavi      $15000
+
+NoSQL -> Non-Structured Query language
+
+[
+    {
+        ID : 1,
+        Name-Emp: 'Anirudh',
+        Salary: $10000
+
+    },
+    {
+        ID : 2,
+        Name-Emp: 'Harshada',
+        Salary: $20000
+
+    },
+    {
+        ID : 3,
+        Name-Emp: 'Vaishnavi',
+        Salary: $15000
+
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "lang":"English",
+        "name":"A to Z Formula",
+        "price":123,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F2017118034771.jpg"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"English",
+        "name":"SSC English CPO Warrior",
+        "price":111,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F2017118030932.jpg"
+        
+    },
+    {
+        "id":3,
+        "lang":"English",
+        "name":"Rich Dad Poor Dad",
+        "price":199,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9781612681139.jpg"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"English",
+        "name":"The Power Of Your Subconscious Mind",
+        "price":209,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9789353338459.jpg"
+
+    },
+    {
+        "id":5,
+        "lang":"English",
+        "name":"Ikigai",
+        "price":111,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9781786330895.jpg"
+        
+
+    },
+    {
+        "id":6,
+        "lang":"English",
+        "name":"Unbarbad",
+        "price":209,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fimage-hub.reproindialtd.com%2F9789367478431.jpg"
+
+    },
+    {
+        "id":7,
+        "lang":"English",
+        "name":"Atomic Habits",
+        "price":149,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9781847941831.jpg"
+        
+
+    }
+]

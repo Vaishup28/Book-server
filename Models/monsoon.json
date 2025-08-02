@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "lang":"English",
+        "name":"The God od Small Things",
+        "price":399,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:498:593:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9780143028574.jpg"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"English",
+        "name":"Every Time it Rains",
+        "price":579,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:498:593:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9789352643738.jpg"
+        
+    },
+    {
+        "id":3,
+        "lang":"English",
+        "name":"The Hungry Tide",
+        "price":455,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9780670082193.jpg"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"English",
+        "name":"Kalidasa",
+        "price": 655,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9780670087983.jpg"
+    },
+    {
+        "id":5,
+        "lang":"English",
+        "name":"Rain in the Mountains",
+        "price":495,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9780140236910.jpg"
+
+    },
+    {
+        "id":6,
+        "lang":"English",
+        "name":"The Mumbai Monsoon",
+        "price":298,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9798885467476.jpg"
+
+    },
+    {
+        "id":7,
+        "lang":"English",
+        "name":"Imaginary Rain",
+        "price":699,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fbookscape-s3-bucket.s3.amazonaws.com%2Fproduct_images%2F9780143455356.jpg"
+    },
+    {
+        "id":8,
+        "lang":"English",
+        "name":"Tales from the Torrid Zone",
+        "price":525,
+        "image":"https://d34a0mln2492j4.cloudfront.net/unsigned/resize:fit:309:450:0/gravity:sm/plain/https%3A%2F%2Fimage-hub-cloud.lightningsource.com%2F2011-04-01%2FImages%2Ffront_cover%2Fx%2Fsku%2F1447244508.jpg%3Fapi_key%3Dw1RqOmVGQSMPw1qtr4Zd9JnDOt9LXrdzXJLC93mf"
+    }
+]

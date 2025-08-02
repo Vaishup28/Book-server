@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "lang":"Hindi",
+        "name":"प्रतिज्ञा",
+        "price":299,
+        "image":"https://kitabay.com/cdn/shop/files/pratigya-original-imagyacd5vh2pdps.webp?crop=center&height=668&v=1739174901&width=433"
+        
+
+    },
+    {
+        "id":2,
+        "lang":"Hindi",
+        "name":"नमो अंधकार",
+        "price":149,
+        "image":"https://kitabay.com/cdn/shop/files/27_73302e8c-d49f-4f29-8a2b-2470fba08769.jpg?crop=center&height=500&v=1739175595&width=324"
+        
+    },
+    {
+        "id":3,
+        "lang":"Hindi",
+        "name":"वीरांगना झलकरी बाई",
+        "price":145,
+        "image":"https://kitabay.com/cdn/shop/files/31_921de7ac-1adb-4429-8370-8bd86f1a37ac.jpg?crop=center&height=668&v=1739176127&width=433"
+        
+
+    },
+    {
+        "id":4,
+        "lang":"Hindi",
+        "name":"बादशाही अँगूठी",
+        "price":175,
+        "image":"https://kitabay.com/cdn/shop/files/21_0c586725-7173-4449-9040-cdae6a16faa3.jpg?crop=center&height=320&v=1739174607&width=200"
+        
+
+    },
+    {
+        "id":5,
+        "lang":"Hindi",
+        "name":"चंद्रशेखर आजाद",
+        "price":199,
+        "image":"https://kitabay.com/cdn/shop/files/IMG_20250207_165751316_HDR_AE.jpg?crop=center&height=673&v=1738927716&width=433"
+        
+
+    },
+    {
+        "id":6,
+        "lang":"Hindi",
+        "name":"अपनी अपनी यात्रा",
+        "price":144,
+        "image":"https://kitabay.com/cdn/shop/files/9789353494155.jpg?crop=center&height=650&v=1738838757&width=421"
+        
+
+    }
+]
