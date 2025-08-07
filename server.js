@@ -16,7 +16,16 @@ const cartRoute = require('./Routes/cartRoute');
 const app = express();
 
 app.use(express.json());
-app.use(cors());
+// app.use(cors());
+
+const allowed = ['http://localhost:3000', 'https://book-server-093o.onrender.com' , 'https://bookstore-kitabay.netlify.app/'];
+app.use(cors({
+  origin: (origin, cb) => {
+    if (!origin || allowed.includes(origin)) return cb(null, true);
+    cb(new Error('Not allowed by CORS'));
+  },
+  credentials: true,
+}));
 
 const port = 8080;
 
