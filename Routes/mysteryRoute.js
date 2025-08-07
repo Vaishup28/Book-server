@@ -1,7 +1,21 @@
 const express = require('express');
 const router = express.Router();
-const controller = require('../Controllers/mysteryController');
+const { getMysteryById } = require('../Controllers/mysteryController');
 
-router.get('/Mys/:_id', controller.getMysteryById);
+router.get('/Mys/:_id', getMysteryById);
 
 module.exports = router;
+
+
+
+
+
+
+
+
+
+
+
+
+
+

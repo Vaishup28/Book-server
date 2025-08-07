@@ -11,12 +11,10 @@ exports.getMysteryById = async (req, res) => {
       Mys = await bookList.findById(mysteryParam);
     }
 
-
-    if (!Mys) {
+    if (!Mys && !isNaN(mysteryParam)) {
       Mys = await bookList.findOne({ id: parseInt(mysteryParam) });
     }
 
-    
     if (Mys) {
       res.status(200).json({ Mys });
     } else {
